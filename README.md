@@ -6,4 +6,5 @@ To use:
 5. sudo docker-compose up
 6. sudo docker-compose run web rake db:create
 
+Gime the star :)
 
